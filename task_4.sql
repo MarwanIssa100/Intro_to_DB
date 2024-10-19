@@ -1,2 +1,2 @@
 USE alx_book_store;
-SHOW Books;
+SHOW COLUMNS FROM Books;
